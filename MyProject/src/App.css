@@ -1,0 +1,26 @@
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+a {
+    text-decoration: none;
+}
+
+header {
+    overflow-x: hidden;
+}
+
+.input_bg {
+    background-color: #ebeefd;
+    border-radius: 10px;
+}
+
+@media screen and (max-width:500px) {
+    .f_size {
+        font-size: 20px;
+    }
+}
